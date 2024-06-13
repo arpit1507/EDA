@@ -4,7 +4,8 @@
 
 ## Eda Techniques
 
-1. Analysis of Distribution of Data[1]
+1. Analysis of Distribution of Data
 2. Replacing or Droping Missing Values[2]
 3. Visualizing The Data[3]
 
+## Analysis of Distribution of Data
