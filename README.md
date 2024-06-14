@@ -5,10 +5,8 @@
 ## Eda Techniques
 
 1. Analysis of Data Distribution
-2. Replacing or Droping Missing Values[2]
-3. Visualizing The Data[3]
+2. Replacing or Droping Missing Values
+3. Visualizing The Data
 
 ### Analysis of Distribution of Data
-```Python
-import numpy as np
-```
+
