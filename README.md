@@ -4,11 +4,11 @@
 
 ## Eda Techniques
 
-1. Analysis of Distribution of Data [https://github.com/arpit1507/EDA/blob/main/README.md#analysis-of-distribution-of-data]
+1. Analysis of Data Distribution
 2. Replacing or Droping Missing Values[2]
 3. Visualizing The Data[3]
 
-## Analysis of Distribution of Data
+### Analysis of Distribution of Data
 ```Python
 import numpy as np
 ```
